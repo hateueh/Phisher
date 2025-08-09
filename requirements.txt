@@ -1,1 +1,4 @@
-sg
+requests
+user_agent
+uuid
+secrets
